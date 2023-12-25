@@ -1,0 +1,4 @@
+Name	Code	Designation	Experience	Age	Salary	AnyLoan	HRA	PF	Tax	MealAllowance	TransportAllowance	MedicalAllowance	LoanBalance	LoanDebit	GrossPay	WorkingHours	DrivingAllowance
+John	1000	Employee1	10	48	12000	N	3240	1440	480	300	300	300	0	0	28620	40	14400
+Doe	1001	Employee2	4	25	15000	N	4050	1800	600	300	300	300	0	0	35550	50	18000
+Sparrow	1003	Pirate	22	48	3000	Y	810	360	120	300	300	300	730	270	7560	10	3600
