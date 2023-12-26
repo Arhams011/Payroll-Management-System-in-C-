@@ -80,7 +80,7 @@ The project involves the automation of fundamental payroll processes, focusing o
 
 ## Rudimentary GUI
 
-Using built-in functions, a rudimentary GUI was created with functions/methods such as:
+Using built-in functions, [a rudimentary GUI](https://github.com/Arhams011/Payroll-Management-System-in-C-/blob/main/Visual%20Elements-Console%20Application.docx) was created with functions/methods such as:
 
 - `void loginFrame1(int xLenS, int yLenS, int xLenE, int yLenE)`: Utilizes the `gotoXY()` function to position the cursor.
 - `void setWindowSize(int width, int height)`: Sets the size of the console window.
